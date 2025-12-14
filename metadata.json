@@ -1,0 +1,5 @@
+{
+  "name": "GrokPrompt Master",
+  "description": "Generador de prompts avanzado para video AI (Grok Imagine), optimizado con Gemini para maximizar la calidad visual y consistencia temporal.",
+  "requestFramePermissions": []
+}
