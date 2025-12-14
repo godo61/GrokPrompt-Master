@@ -7,11 +7,17 @@ export enum VideoAspectRatio {
 
 export enum CameraMovement {
   Static = "Static",
-  Pan = "Pan",
-  Tilt = "Tilt",
   ZoomIn = "Zoom In",
   ZoomOut = "Zoom Out",
-  Dolly = "Dolly",
+  DollyIn = "Dolly In",
+  DollyOut = "Dolly Out",
+  TruckLeft = "Truck Left",
+  TruckRight = "Truck Right",
+  PedestalUp = "Pedestal Up",
+  PedestalDown = "Pedestal Down",
+  Pan = "Pan",
+  Tilt = "Tilt",
+  Orbit = "Orbit",
   Handheld = "Handheld / Shake",
   FPV = "FPV Drone"
 }
